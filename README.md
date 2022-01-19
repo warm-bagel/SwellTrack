@@ -7,8 +7,11 @@ I'd love to have a resource that definitively knows what the swell direction, si
 
 Obviously, it's an art & and science, but having the tools to help will make your art better and your science smarter.
 
-Yours truly, the `SwellTrack` Team
+Yours truly,
 
+Team `SwellTrack`
+
+----
 
 #### What's Next?
 ----
